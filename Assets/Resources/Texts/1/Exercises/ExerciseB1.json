@@ -1,0 +1,41 @@
+{
+	"type":0,
+	"rewrite":true,
+	"title":"Choose an option from the following words",
+	"options":["a", "an", "some"],
+	"Question":
+	[
+		{
+			"question":"____fork",
+			"answers":["a"]
+		},
+		{
+			"question":"____flour",
+			"answers":["some"]
+		},
+		{
+			"question":"____ground cloves",
+			"answers":["some"]
+		},
+		{
+			"question":"____hair",
+			"answers":["some"]
+		},
+		{
+			"question":"____egg",
+			"answers":["an"]
+		},
+		{
+			"question":"____honey",
+			"answers":["some"]
+		},
+		{
+			"question":"____spices",
+			"answers":["some"]
+		},
+		{
+			"question":"____oven",
+			"answers":["an"]
+		}
+	]
+}

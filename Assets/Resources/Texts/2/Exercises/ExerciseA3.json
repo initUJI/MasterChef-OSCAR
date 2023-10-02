@@ -1,0 +1,12 @@
+{
+	"type":4,
+	"rewrite":false,
+	"title":"Find the six adjectives among the following options.",
+	"options":["Large","Hot","Soft","Long","Smooth","Red","About","Allow","Knife","Pin","Together","Gently"],
+	"Question":	[
+		{
+			"question":null,
+			"answers":["Large","Hot","Soft","Long","Smooth","Red"]
+		}
+	]
+}

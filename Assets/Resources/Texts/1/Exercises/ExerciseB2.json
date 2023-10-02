@@ -1,0 +1,29 @@
+{
+	"type":1,
+	"rewrite":false,
+	"title":"Choose the plural for the following word.",
+	"options":[],
+	"Question":
+	[
+		{
+			"question":"man",
+			"answers":["men","mans","mens"]
+		},
+		{
+			"question":"cookie",
+			"answers":["cookies","cookie","cookings"]
+		},
+		{
+			"question":"woman",
+			"answers":["women","womans","womens"]
+		},
+		{
+			"question":"foot",
+			"answers":["feet","foots","foot"]
+		},
+		{
+			"question":"hair",
+			"answers":["hair","hairs","hairings"]
+		}
+	]
+}

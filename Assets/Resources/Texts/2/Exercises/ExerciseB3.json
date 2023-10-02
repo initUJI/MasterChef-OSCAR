@@ -1,0 +1,33 @@
+{
+	"type":1,
+	"rewrite":false,
+	"title":"Choose the noun form of the following adjectives describing dimensions",
+	"options":[],
+	"Question":
+	[
+		{
+			"question":"long",
+			"answers":["length","longness","longitude"]
+		},
+		{
+			"question":"wide",
+			"answers":["width","wind","wide"]
+		},
+		{
+			"question":"high",
+			"answers":["height","highness","high"]
+		},
+		{
+			"question":"diameter",
+			"answers":["diameter","diametrical","diametric"]
+		},
+		{
+			"question":"thick",
+			"answers":["thickness","though","thick"]
+		},
+		{
+			"question":"deep",
+			"answers":["depth","down","deeps"]
+		}
+	]
+}

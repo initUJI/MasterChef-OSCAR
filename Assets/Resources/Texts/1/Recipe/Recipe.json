@@ -1,0 +1,458 @@
+{
+	"Ingredients":
+	[
+		"Flour",
+		"Baking Soda",
+		"Ground Ginger",
+		"Ground Cinnamon",
+		"Ground Cloves",
+		"Ground Nutmeg",
+		"Butter",
+		"Brown Sugar",
+		"Honey",
+		"Egg",
+		"Egg",
+		"Icing Sugar",
+		"White Food Colouring",
+		"Red Food Colouring",
+		"Green Food Colouring"
+	],
+	"RecipeStep":
+	[
+		{
+			"Text":"Add the dry ingredients together in the mixing bowl",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Flour","Brown Sugar","Ground Ginger","Ground Cinnamon","Ground Cloves","Ground Nutmeg","Baking Soda"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":["Mixture"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fine Powder"
+				}
+			]
+		},
+		{
+			"Text":"Blend all the dry ingredients in the mixing bowl with a whisk",
+			"Step":
+			[
+				{
+					"type":3,
+					"object1":["Whisk"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Fine Powder Long"
+				}
+			]
+		},
+		{
+			"Text":"Open an egg in the plate",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Egg"],
+					"object2":["Plate"],
+					"object3":["Raw Egg"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Cracking Egg"
+				}
+			]
+		},
+		{
+			"Text":"Beat the egg with a fork and<br>add it to the dry mixture",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Fork"],
+					"object2":["Raw Egg"],
+					"object3":["Beaten Egg"],
+					"n":1,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Mixing Egg"
+				},
+				{
+					"type":3,
+					"object1":["Plate"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plate",
+					"audio2":"Cooking/Pouring Liquid"
+				}
+			]
+		},	
+		{
+			"Text":"Mix in the softened butter with the whisk",
+			"Step":
+			[
+				{
+					"type":1,
+					"object1":["Butter"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fall on Powder"
+				},
+				{
+					"type":3,
+					"object1":["Whisk"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":1,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Fine Powder Long"
+				}
+			]
+		},
+		{
+			"Text":"Turn on the cooker and warm the honey in the pot",
+			"Step":
+			[
+				{
+					"type":6,
+					"object1":["Cooker"],
+					"object2":null,
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Lighting Gas",
+					"audio2":null
+				},
+				{
+					"type":2,
+					"object1":["Honey"],
+					"object2":["Pot"],
+					"object3":["Honey Liquid"],
+					"n":5,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Pouring Liquid"
+				}
+			]
+		},
+		{
+			"Text":"Turn off the cooker and pour<br>the honey into the mixture",
+			"Step":
+			[
+				{
+					"type":6,
+					"object1":["Cooker"],
+					"object2":null,
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Turn Off Gas",
+					"audio2":null
+				},
+				{
+					"type":3,
+					"object1":["Pot"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Pan",
+					"audio2":"Cooking/Pouring Liquid"
+				}
+			]
+		},
+		{
+			"Text":"Knead the mixture with the whisk until it becomes<br>a soft, smooth dough",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Whisk"],
+					"object2":["Mixture"],
+					"object3":["Gingerbread Dough"],
+					"n":5,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Turn the dough onto out a board and<br>roll it out with the rolling pin",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Gingerbread Dough"],
+					"object2":["Cutting Board"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Dough Pick",
+					"audio2":"Cooking/Wood Drop"
+				},
+				{
+					"type":4,
+					"object1":["Rolling Pin"],
+					"object2":["Gingerbread Dough"],
+					"object3":["Flatten Gingerbread Dough"],
+					"n":0,
+					"audio1":"Cooking/Wood Drop",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Take the gingerbread man cookie cutter<br>and cut out the shapes",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Gingerbread Cookie Cutter"],
+					"object2":["Flatten Gingerbread Dough"],
+					"object3":["Cookie Man Dough"],
+					"n":1,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Dough Pick"
+				}
+			]
+		},
+		{
+			"Text":"Lay the cookie on the baking tray",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Cookie Man Dough"],
+					"object2":["Baking Tray"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Dough Pick",
+					"audio2":"Cooking/Dough Pick"
+				}
+			]
+		},
+		{
+			"Text":"Turn on the oven at 190°C degrees and bake the cookie for about 10 minutes",
+			"Step":
+			[
+				{
+					"type":6,
+					"object1":["Oven"],
+					"object2":null,
+					"object3":null,
+					"n":190,
+					"audio1":"Cooking/Oven",
+					"audio2":null
+				},
+				{
+					"type":0,
+					"object1":["Baking Tray"],
+					"object2":["Oven"],
+					"object3":null,
+					"n":10,
+					"audio1":"Cooking/Baking Tray",
+					"audio2":"Cooking/Oven In"
+				}
+			]
+		},
+		{
+			"Text":"Remove the gingerbread cookie from the oven<br>and allow them to cool and harden",
+			"Step":
+			[
+				{
+					"type":7,
+					"object1":["Oven"],
+					"object2":null,
+					"object3":["Baked Cookie Man"],
+					"n":0,
+					"audio1":"Cooking/Oven",
+					"audio2":null
+				},
+				{
+					"type":0,
+					"object1":["Oven"],
+					"object2":["Kitchen Counter"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Baking Tray",
+					"audio2":"Cooking/Baking Tray"
+				}
+			]
+		},
+		{
+			"Text":"Open an egg in the plate",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Egg"],
+					"object2":["Plate"],
+					"object3":["Egg White"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Cracking Egg"
+				}
+			]
+		},
+		{
+			"Text":"Beat the egg white with a fork<br>until it's light and fluffy.",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Fork"],
+					"object2":["Egg White"],
+					"object3":["Beaten Egg White"],
+					"n":1,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Mixing Egg"
+				}
+			]
+		},
+		{
+			"Text":"Add the sifted icing sugar<br>to the beaten egg white",
+			"Step":
+			[
+				{
+					"type":1,
+					"object1":["Icing Sugar"],
+					"object2":["Plate","Beaten Egg White"],
+					"object3":null,
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fine Powder"
+				}
+			]
+		},
+		{
+			"Text":"Divide the white icing into 3 small bowls",
+			"Step":
+			[
+				{
+					"type":5,
+					"object1":["Plate"],
+					"object2":["Bowl"],
+					"object3":["Icing"],
+					"n":3,
+					"audio1":"Cooking/Plate",
+					"audio2":"Cooking/Pouring Liquid"
+				}
+			]
+		},
+		{
+			"Text":"Stir in a few drops of food colouring to each bowl",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["White Food Colouring","Red Food Colouring","Green Food Colouring"],
+					"object2":["Icing"],
+					"object3":["White Icing","Red Icing","Green Icing"],
+					"n":3,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Drops"
+				}
+			]
+		},
+		{
+			"Text":"Fill the piping bag with the white icing<br>and put it on the gingerbread man",
+			"Step":
+			[
+				{
+					"type":8,
+					"object1":["Piping Bag"],
+					"object2":["White Icing"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plastic",
+					"audio2":"Cooking/Pouring Liquid"
+				},
+				{
+					"type":4,
+					"object1":["Piping Bag"],
+					"object2":["Baked Cookie Man"],
+					"object3":["White Coloured Cookie Man"],
+					"n":0,
+					"audio1":null,
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Fill the piping bag with the green icing<br>and put it on the gingerbread man",
+			"Step":
+			[
+				{
+					"type":8,
+					"object1":["Piping Bag"],
+					"object2":["Green Icing"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plastic",
+					"audio2":"Cooking/Pouring Liquid"
+				},
+				{
+					"type":4,
+					"object1":["Piping Bag"],
+					"object2":["White Coloured Cookie Man"],
+					"object3":["White-Green Coloured Cookie Man"],
+					"n":0,
+					"audio1":null,
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Fill the piping bag with the red icing<br>and put it on the gingerbread man",
+			"Step":
+			[
+				{
+					"type":8,
+					"object1":["Piping Bag"],
+					"object2":["Red Icing"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plastic",
+					"audio2":"Cooking/Pouring Liquid"
+				},
+				{
+					"type":4,
+					"object1":["Piping Bag"],
+					"object2":["White-Green Coloured Cookie Man"],
+					"object3":["Gingerbread Man"],
+					"n":0,
+					"audio1":null,
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Put the gingerbread man into the plate",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Gingerbread Man"],
+					"object2":["Plate"],
+					"object3":null,
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Plate"
+				}
+			]
+		},
+		{
+			"Text":"Bring the plate to the judges",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Plate"],
+					"object2":["Judges Table"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plate",
+					"audio2":"Cooking/Plate"
+				}
+			]
+		}
+	]
+}

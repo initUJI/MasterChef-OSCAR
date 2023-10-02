@@ -1,0 +1,295 @@
+{
+	"Ingredients":
+	[
+		"Butter",
+		"Sugar",
+		"Brown Sugar",
+		"Vanilla Extract",
+		"Egg",
+		"Egg",
+		"Flour",
+		"Salt",
+		"Baking Powder",
+		"Baking Soda",
+		"Chocolate Chips"
+	],
+	"RecipeStep":
+	[
+		{
+			"Text":"Preheat the oven to 180°C",
+			"Step":
+			[
+				{
+					"type":6,
+					"object1":["Oven"],
+					"object2":null,
+					"object3":null,
+					"n":180,
+					"audio1":"Cooking/Oven",
+					"audio2":null
+				}
+			]
+		},
+		{
+			"Text":"Add butter, sugar, brown sugar and vanilla extract to the mixing bowl",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Butter","Sugar","Brown Sugar","Vanilla Extract"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":["Mixture"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fine Powder"
+				}
+			]
+		},
+		{
+			"Text":"Cream together the ingredients in the mixing bowl with the whisk",
+			"Step":
+			[
+				{
+					"type":3,
+					"object1":["Whisk"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Fine Powder Long"
+				}
+			]
+		},
+		{
+			"Text":"Open the eggs in the plate",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Egg","Egg"],
+					"object2":["Plate","Raw Egg"],
+					"object3":["Raw Egg"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Cracking Egg"
+				}
+			]
+		},
+		{
+			"Text":"Beat the eggs with a fork and<br>add them to the mixture",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Fork"],
+					"object2":["Raw Egg"],
+					"object3":["Beaten Egg"],
+					"n":1,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Mixing Egg"
+				},
+				{
+					"type":3,
+					"object1":["Plate"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plate",
+					"audio2":"Cooking/Pouring Liquid"
+				}
+			]
+		},
+		{
+			"Text":"Blend the mixture in the mixing bowl<br>with the whisk",
+			"Step":
+			[
+				{
+					"type":3,
+					"object1":["Whisk"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Fine Powder Long"
+				}
+			]
+		},
+		{
+			"Text":"Add flour, salt, baking powder and<br>baking soda to the mixture",
+			"Step":
+			[
+				{
+					"type":1,
+					"object1":["Flour","Salt","Baking Powder","Baking Soda"],
+					"object2":["Mixing Bowl","Mixture"],
+					"object3":["Mixture"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fine Powder"
+				}
+			]
+		},
+		{
+			"Text":"Blend the ingredients with the whisk<br>into a soft dough",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Whisk"],
+					"object2":["Mixture"],
+					"object3":["Dough"],
+					"n":5,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Fold into the dough the chocolate chips<br>with the wooden spoon",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Chocolate Chips"],
+					"object2":["Dough"],
+					"object3":["Cookie Dough"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Fine Powder"
+				},
+				{
+					"type":3,
+					"object1":["Wooden Spoon"],
+					"object2":["Cookie Dough"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Turn the dough out onto a board and<br>roll it into a cylinder",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Cookie Dough"],
+					"object2":["Cutting Board"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Dough Pick",
+					"audio2":"Cooking/Wood Drop"
+				},
+				{
+					"type":4,
+					"object1":["Rolling Pin"],
+					"object2":["Cookie Dough"],
+					"object3":["Cylinder Cookie Dough"],
+					"n":0,
+					"audio1":"Cooking/Wood Drop",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Cut the cylinder with a knife into some slices",
+			"Step":
+			[
+				{
+					"type":4,
+					"object1":["Knife"],
+					"object2":["Cylinder Cookie Dough"],
+					"object3":["Raw Cookies"],
+					"n":1,
+					"audio1":"Cooking/Utensil",
+					"audio2":"Cooking/Dough"
+				}
+			]
+		},
+		{
+			"Text":"Place the cookies on the non-stick baking tray",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Raw Cookies"],
+					"object2":["Baking Tray"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Dough Pick",
+					"audio2":"Cooking/Dough Pick"
+				}
+			]
+		},
+		{
+			"Text":"Bake the cookies in the hot oven",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Baking Tray"],
+					"object2":["Oven"],
+					"object3":null,
+					"n":15,
+					"audio1":"Cooking/Baking Tray",
+					"audio2":"Cooking/Oven In"
+				}
+			]
+		},
+		{
+			"Text":"Remove the cookies from the oven",
+			"Step":
+			[
+				{
+					"type":7,
+					"object1":["Oven"],
+					"object2":null,
+					"object3":["Cookies"],
+					"n":0,
+					"audio1":"Cooking/Oven",
+					"audio2":null
+				},
+				{
+					"type":0,
+					"object1":["Oven"],
+					"object2":["Kitchen Counter"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Baking Tray",
+					"audio2":"Cooking/Baking Tray"
+				}
+			]
+		},
+		{
+			"Text":"Put the cookies into the plate",
+			"Step":
+			[
+				{
+					"type":2,
+					"object1":["Cookies"],
+					"object2":["Plate"],
+					"object3":["Chocolate Chip Cookies"],
+					"n":0,
+					"audio1":"GUI/Minimal UI Sounds/Click 03_Minimal UI Sounds",
+					"audio2":"Cooking/Plate"
+				}
+			]
+		},
+		{
+			"Text":"Bring the plate to the judges",
+			"Step":
+			[
+				{
+					"type":0,
+					"object1":["Plate"],
+					"object2":["Judges Table"],
+					"object3":null,
+					"n":0,
+					"audio1":"Cooking/Plate",
+					"audio2":"Cooking/Plate"
+				}
+			]
+		}
+	]
+}

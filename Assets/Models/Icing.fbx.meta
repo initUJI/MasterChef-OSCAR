@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: d9748d79757660c46ad7143a5cc6cc49
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 7039618522719016687
+    second: Profile-Star|CircleAction
+  - first:
+      74: 5653981783393660837
+    second: Profile-Star|PipingTip1Action
+  - first:
+      74: -7431557875343230817
+    second: Profile-Star|PipingTip2Action
+  - first:
+      74: -190621581316925270
+    second: Profile-Star|PipingTip3Action
+  - first:
+      74: -1265376556023898459
+    second: Profile-Star|Profile-Closed StarAction
+  - first:
+      74: 2810364579367570315
+    second: Profile-Star|Profile-FlowerAction
+  - first:
+      74: 1330406265400405644
+    second: Profile-Star|Profile-FrenchAction
+  - first:
+      74: -4495999251422318730
+    second: Profile-Star|Profile-StarAction
+  - first:
+      74: 4212792703819366724
+    second: Profile-Star|Squeeze
+  - first:
+      74: 2196295730966724378
+    second: Profile-Star|Unsqueeze
+  - first:
+      74: -4708015060911517484
+    second: Profile-Closed Star|CircleAction
+  - first:
+      74: 424947445243897581
+    second: Profile-Closed Star|PipingTip1Action
+  - first:
+      74: 2661197952361655360
+    second: Profile-Closed Star|PipingTip2Action
+  - first:
+      74: 8799039189099064511
+    second: Profile-Closed Star|PipingTip3Action
+  - first:
+      74: 5550990540664848416
+    second: Profile-Closed Star|Profile-Closed StarAction
+  - first:
+      74: 6144455520829637417
+    second: Profile-Closed Star|Profile-FlowerAction
+  - first:
+      74: 7254696102603709374
+    second: Profile-Closed Star|Profile-FrenchAction
+  - first:
+      74: -2294822627327138359
+    second: Profile-Closed Star|Profile-StarAction
+  - first:
+      74: 5437235901048680842
+    second: Profile-Closed Star|Squeeze
+  - first:
+      74: -4668774765817699532
+    second: Profile-Closed Star|Unsqueeze
+  - first:
+      74: -3856070421689534377
+    second: Piping Bag|CircleAction
+  - first:
+      74: -765780336553657988
+    second: Piping Bag|PipingTip1Action
+  - first:
+      74: 7543189471003870022
+    second: Piping Bag|PipingTip2Action
+  - first:
+      74: -5056662265045437710
+    second: Piping Bag|PipingTip3Action
+  - first:
+      74: -4428665410649980551
+    second: Piping Bag|Profile-Closed StarAction
+  - first:
+      74: 6420857945389730260
+    second: Piping Bag|Profile-FlowerAction
+  - first:
+      74: -8534572131781522362
+    second: Piping Bag|Profile-FrenchAction
+  - first:
+      74: 5466273405517875257
+    second: Piping Bag|Profile-StarAction
+  - first:
+      74: -3924845380772809233
+    second: Piping Bag|Squeeze
+  - first:
+      74: -4700750763366621683
+    second: Piping Bag|Unsqueeze
+  - first:
+      74: 5315715052771576197
+    second: PipingTip1|CircleAction
+  - first:
+      74: 7718934862022739985
+    second: PipingTip1|PipingTip1Action
+  - first:
+      74: 3922584440886711717
+    second: PipingTip1|PipingTip2Action
+  - first:
+      74: 2729271674150633283
+    second: PipingTip1|PipingTip3Action
+  - first:
+      74: 6010744668549089827
+    second: PipingTip1|Profile-Closed StarAction
+  - first:
+      74: 632293190858714664
+    second: PipingTip1|Profile-FlowerAction
+  - first:
+      74: 2662988821087560724
+    second: PipingTip1|Profile-FrenchAction
+  - first:
+      74: -643045837012913525
+    second: PipingTip1|Profile-StarAction
+  - first:
+      74: 4452862369565313567
+    second: PipingTip1|Squeeze
+  - first:
+      74: 5774675030782500343
+    second: PipingTip1|Unsqueeze
+  - first:
+      74: -3906480963349871148
+    second: Profile-French|CircleAction
+  - first:
+      74: 6631430907279683074
+    second: Profile-French|PipingTip1Action
+  - first:
+      74: -7997449310305480199
+    second: Profile-French|PipingTip2Action
+  - first:
+      74: 7120286447262514287
+    second: Profile-French|PipingTip3Action
+  - first:
+      74: -126593455120329629
+    second: Profile-French|Profile-Closed StarAction
+  - first:
+      74: 5493540336235521314
+    second: Profile-French|Profile-FlowerAction
+  - first:
+      74: -2004851475430903634
+    second: Profile-French|Profile-FrenchAction
+  - first:
+      74: 5437776131764480898
+    second: Profile-French|Profile-StarAction
+  - first:
+      74: 4808225960685705907
+    second: Profile-French|Squeeze
+  - first:
+      74: -293213189016389523
+    second: Profile-French|Unsqueeze
+  - first:
+      74: 6997882522552206460
+    second: Circle|CircleAction
+  - first:
+      74: 689533022318222872
+    second: Circle|PipingTip1Action
+  - first:
+      74: 2667133977449243528
+    second: Circle|PipingTip2Action
+  - first:
+      74: -4097183551961379760
+    second: Circle|PipingTip3Action
+  - first:
+      74: 359210892235178470
+    second: Circle|Profile-Closed StarAction
+  - first:
+      74: 871136991301676557
+    second: Circle|Profile-FlowerAction
+  - first:
+      74: 3254469656653843300
+    second: Circle|Profile-FrenchAction
+  - first:
+      74: 4749914790596157179
+    second: Circle|Profile-StarAction
+  - first:
+      74: 3562811358508397221
+    second: Circle|Squeeze
+  - first:
+      74: 5918377761114898863
+    second: Circle|Unsqueeze
+  - first:
+      74: -2964457266435880908
+    second: Profile-Flower|CircleAction
+  - first:
+      74: -8613722798526102759
+    second: Profile-Flower|PipingTip1Action
+  - first:
+      74: -5961763336824838789
+    second: Profile-Flower|PipingTip2Action
+  - first:
+      74: -8839263984521909664
+    second: Profile-Flower|PipingTip3Action
+  - first:
+      74: 2567676750719044589
+    second: Profile-Flower|Profile-Closed StarAction
+  - first:
+      74: -2690640634580176400
+    second: Profile-Flower|Profile-FlowerAction
+  - first:
+      74: -5411221285830827450
+    second: Profile-Flower|Profile-FrenchAction
+  - first:
+      74: 8093641529984164535
+    second: Profile-Flower|Profile-StarAction
+  - first:
+      74: 5648949436792945954
+    second: Profile-Flower|Squeeze
+  - first:
+      74: -5165155527527755039
+    second: Profile-Flower|Unsqueeze
+  - first:
+      74: 7387976368499169033
+    second: PipingTip2|CircleAction
+  - first:
+      74: -6798254503382321198
+    second: PipingTip2|PipingTip1Action
+  - first:
+      74: -62337562101748460
+    second: PipingTip2|PipingTip2Action
+  - first:
+      74: 3918139551305075100
+    second: PipingTip2|PipingTip3Action
+  - first:
+      74: -8077716186393798484
+    second: PipingTip2|Profile-Closed StarAction
+  - first:
+      74: -4874644181354041680
+    second: PipingTip2|Profile-FlowerAction
+  - first:
+      74: -6041329933703954933
+    second: PipingTip2|Profile-FrenchAction
+  - first:
+      74: -4378151624002692659
+    second: PipingTip2|Profile-StarAction
+  - first:
+      74: 8532251340724398612
+    second: PipingTip2|Squeeze
+  - first:
+      74: 7529678208564109595
+    second: PipingTip2|Unsqueeze
+  - first:
+      74: 7002370565923681883
+    second: PipingTip3|CircleAction
+  - first:
+      74: 8027992085012277253
+    second: PipingTip3|PipingTip1Action
+  - first:
+      74: 2291123663779280300
+    second: PipingTip3|PipingTip2Action
+  - first:
+      74: -4687547772254942221
+    second: PipingTip3|PipingTip3Action
+  - first:
+      74: -3708022328930156208
+    second: PipingTip3|Profile-Closed StarAction
+  - first:
+      74: -5880345846405832832
+    second: PipingTip3|Profile-FlowerAction
+  - first:
+      74: 3726889539679700721
+    second: PipingTip3|Profile-FrenchAction
+  - first:
+      74: -8148125838833907149
+    second: PipingTip3|Profile-StarAction
+  - first:
+      74: 4782588124489435651
+    second: PipingTip3|Squeeze
+  - first:
+      74: -5490908992521133360
+    second: PipingTip3|Unsqueeze
+  - first:
+      74: 4781951162920444690
+    second: Armature|ArmatureAction
+  - first:
+      74: -459742428196443844
+    second: Armature|CircleAction
+  - first:
+      74: 8188230090586054095
+    second: Armature|PipingTip1Action
+  - first:
+      74: 8130103988691718241
+    second: Armature|PipingTip2Action
+  - first:
+      74: -6145320793315269814
+    second: Armature|PipingTip3Action
+  - first:
+      74: -1552721021756133886
+    second: Armature|Profile-Closed StarAction
+  - first:
+      74: -1999054675125944599
+    second: Armature|Profile-FlowerAction
+  - first:
+      74: -8198546155543396911
+    second: Armature|Profile-FrenchAction
+  - first:
+      74: 5411539196652977364
+    second: Armature|Profile-StarAction
+  - first:
+      74: 8462705962459606724
+    second: Armature|Squeeze
+  - first:
+      74: -3492365436287550189
+    second: Armature|Unsqueeze
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bag
+    second: {fileID: 2100000, guid: c92d2efae29e39b4abeeb4448648af58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Icing
+    second: {fileID: 2100000, guid: 86f92b47a5a183b4d8e66ea94db19ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 0a9ecd8d382f65c419fae6bd3219d586, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

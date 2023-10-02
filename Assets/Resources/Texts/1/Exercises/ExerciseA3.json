@@ -1,0 +1,12 @@
+{
+	"type":4,
+	"rewrite":false,
+	"title":"Find the six adjectives among the following options.",
+	"options":["Brown","Preheated","Soften","Dry","Beaten","Golden","Bowl","Drops","Icing","Cutter","Degrees","Sheet"],
+	"Question":	[
+		{
+			"question":null,
+			"answers":["Brown","Preheated","Soften","Dry","Beaten","Golden"]
+		}
+	]
+}

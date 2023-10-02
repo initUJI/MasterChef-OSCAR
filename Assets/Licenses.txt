@@ -1,0 +1,47 @@
+Assets used:
+- "Buttons Set" by KartInnka
+- "Christmas Decoration Props" by Padia 3D
+- "Christmas Cookies (breakable)" by Dimaantipanov
+- "Food Pack Mixed" by Brain Fail Productions
+- "Kitchen Creation Kit" by Studio Krokidana
+- "Minimal UI Sounds" by cabled_mess
+- "Save Game Free - Gold Update" by Bayat Games
+
+From Unity Learn:
+- "Create-with-VR_2020LTS.zip" from the course "Create with VR" (https://learn.unity.com/course/create-with-vr?uv=2020.3) by Unity Technologies
+
+Royalty Free License
+- "3D modular warehouse model" by MesnikAnd (https://www.turbosquid.com/it/3d-models/3d-modular-warehouse-interior-model-1395553)
+- "Gingerbread Cookie Cutter" by Lotus-Franz (https://www.cgtrader.com/free-3d-print-models/hobby-diy/hand-tools/gingerbread-cookie-cutter-66e3ae5f-49f1-4079-b61a-139a6b7b1c24)
+- "Modern bowl" by edson-lopes (https://www.cgtrader.com/free-3d-models/household/kitchenware/modern-bowl--2)
+- "Kitchen Utensil Box" by Thiennguyen2106 (https://www.cgtrader.com/free-3d-models/household/kitchenware/kitchen-utensil-box)
+- "Rolling Pin" by jaquim96 (https://www.cgtrader.com/free-3d-models/interior/kitchen/rolling-pin-c847d3c4-87fa-4aa9-94e2-38c7fc4f00e0)
+- "Set Icon Arrow Button Buttons Free Arrows Kuba vector art" by kuba from Vector.me (https://vector.me/browse/175028/set_icon_arrow_button_buttons_free_arrows_kuba)
+- "Fire flames on black background" by Irontrybex (https://www.dreamstime.com/stock-photo-fire-flames-black-background-texture-image45874484)
+
+CC License:
+- "Icing Bag - VR Gingerbread House Builder" (https://skfb.ly/oqt6X) by SBonser is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+- "Fine Powder Sound Effects" (https://youtu.be/6f8ERVbQp20) by Rubens ASMR is licensed under CC BY (https://creativecommons.org/licenses/by/3.0/legalcode)
+- "Beating an Egg | Foley Sound Effect" (https://youtu.be/Mk3ZTehn9NM) by Yau Audio is licensed under CC BY (https://creativecommons.org/licenses/by/3.0/legalcode)
+- "Kneading Bread.wav" (https://freesound.org/people/PrincessGrace/sounds/323769/) by PrincessGrace is licensed under the Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+- "Wood Dropping" (https://freesound.org/people/diakunik/sounds/547383/) by diakunik is licensed under the Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+- "Dripping, Medium, A.wav" (https://freesound.org/people/InspectorJ/sounds/343763/) by InspectorJ is licensed under the Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+- "Fridge open and close" (https://freesound.org/people/TiidWunduniik/sounds/489545/) by TiidWunduniik  is licensed under the Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+- "Bread Dough" (https://skfb.ly/6Xv8t) by Thunder is licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/4.0/).
+
+Apache License:
+- "VRChef" from GitHub.com (https://github.com/dyanikoglu/VRChef) by dyanikoglu is licensed under Apache-2.0 license
+
+All the chararcters are made with Reallusion Character Creator 4 - Trial Version
+All the TTS audios are made with freetts.com
+
+"Create with VR" by Unity Technologies
+
+Fonts:
+
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+D. Fonts
+Caveat, Inter, Lora, and SourceCodePro
+
+From Google Fonts, licensed under the SIL Open Font License (OFL).

@@ -1,0 +1,33 @@
+{
+	"type":2,
+	"rewrite":false,
+	"title":"Match the following objects with its correct name from the following.",
+	"options":["Sugar","Vanilla Extract","Salt","Baking Powder","Chocolate Chips","Egg"],
+	"Question":
+	[
+		{
+			"question":"Sugar",
+			"answers":["Sugar"]
+		},
+		{
+			"question":"Vanilla Extract",
+			"answers":["Vanilla Extract"]
+		},
+		{
+			"question":"Salt",
+			"answers":["Salt"]
+		},
+		{
+			"question":"Baking Powder",
+			"answers":["Baking Powder"]
+		},
+		{
+			"question":"Chocolate Chips",
+			"answers":["Chocolate Chips"]
+		},
+		{
+			"question":"Egg",
+			"answers":["Egg"]
+		}
+	]
+}

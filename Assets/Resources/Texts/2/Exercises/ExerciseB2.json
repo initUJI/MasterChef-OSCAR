@@ -1,0 +1,29 @@
+{
+	"type":1,
+	"rewrite":false,
+	"title":"Choose the opposite of the following words",
+	"options":[],
+	"Question":
+	[
+		{
+			"question":"dry",
+			"answers":["moist","watered","hot"]
+		},
+		{
+			"question":"hard",
+			"answers":["soft","strong","week"]
+		},
+		{
+			"question":"loosely",
+			"answers":["precisely","randomly","nicely"]
+		},
+		{
+			"question":"opaque",
+			"answers":["clear","soft","smart"]
+		},
+		{
+			"question":"disgusting",
+			"answers":["nice","bad","cold"]
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+    "players": [
+        {
+            "empty": false,
+            "username": "Salvataggio 0",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        },
+        {
+            "empty": true,
+            "username": "",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        },
+        {
+            "empty": false,
+            "username": "Salvataggio 2",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        },
+        {
+            "empty": true,
+            "username": "",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        },
+        {
+            "empty": true,
+            "username": "",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        },
+        {
+            "empty": true,
+            "username": "",
+            "levels": [
+                {
+                    "unlocked": true,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                },
+                {
+                    "unlocked": false,
+                    "completed": false,
+                    "score": 0,
+                    "highScore": 0
+                }
+            ]
+        }
+    ],
+    "option": {
+        "volume": 0.8345534205436707,
+        "sensitivity": 0.9277632832527161
+    }
+}

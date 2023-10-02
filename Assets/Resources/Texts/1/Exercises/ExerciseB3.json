@@ -1,0 +1,33 @@
+{
+	"type":1,
+	"rewrite":true,
+	"title":"Fill in the gaps with the appropriate form of the verb",
+	"options":[],
+	"Question":
+	[
+		{
+			"question":"When biscuits are allowed to become hard, they are said to ____.",
+			"answers":["harden","hard","hardened"]
+		},
+		{
+			"question":"When butter is made to become soft, it is said to ____.",
+			"answers":["soften","soft","softened"]
+		},
+		{
+			"question":"When flour has been sifted, it may be referred to as ____ flour.",
+			"answers":["sifted","sifting","sift"]
+		},
+		{
+			"question":"A substance which is used for colouring food is called food ____.",
+			"answers":["colouring","colour","colourant"]
+		},
+		{
+			"question":"An object which is used for cutting out cookies is called a cookie ____.",
+			"answers":["cutter","cutting","cut"]
+		},
+		{
+			"question":"A bag-like object used for piping icing is called a ____ bag.",
+			"answers":["piping","piper","pipe"]
+		}
+	]
+}
