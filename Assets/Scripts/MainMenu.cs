@@ -122,7 +122,7 @@ public class MainMenu : MonoBehaviour
         Button button = PanelGioca.transform.Find("Salvataggio" + savings.GetISaving()).Find("Cancella" + savings.GetISaving()).GetComponent<Button>();
         button.interactable = false;
         TextMeshProUGUI text = PanelGioca.transform.Find("Salvataggio" + savings.GetISaving()).Find("Utente" + savings.GetISaving()).Find("Text (TMP)").GetComponent<TextMeshProUGUI>();
-        text.text = "-- vuoto --";
+        text.text = "-- empty --";
         PanelCancella.SetActive(false);
         PanelGioca.SetActive(true);
     }
