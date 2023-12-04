@@ -9281,7 +9281,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Esci
+      value: Exit
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name
@@ -23333,7 +23333,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Indietro
+      value: Back
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name
@@ -23878,7 +23878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sei sicuro di voler uscire?
+  m_text: Are you sure you want to go out?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -25926,7 +25926,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sensibilita' mouse
+  m_text: Mouse sensitivity
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a3c0d7d1db2a4a40a1c18754fa1256b, type: 2}
   m_sharedMaterial: {fileID: 4653623578686803856, guid: 4a3c0d7d1db2a4a40a1c18754fa1256b, type: 2}
@@ -42235,7 +42235,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Opzioni
+  m_text: Options
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a3c0d7d1db2a4a40a1c18754fa1256b, type: 2}
   m_sharedMaterial: {fileID: 4653623578686803856, guid: 4a3c0d7d1db2a4a40a1c18754fa1256b, type: 2}
@@ -50567,7 +50567,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Riprendi
+      value: Resume
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name
@@ -52283,7 +52283,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Opzioni
+      value: Options
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name
@@ -66882,7 +66882,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Aiuto
+      value: Help
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name
@@ -87284,7 +87284,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119592981788707486, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_text
-      value: Esci
+      value: Exit
       objectReference: {fileID: 0}
     - target: {fileID: 4446535967524235377, guid: 64347c613d244704ca7fff51f207b842, type: 3}
       propertyPath: m_Name

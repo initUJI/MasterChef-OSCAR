@@ -1,15 +1,14 @@
 {
-	"Pages":
-	[
-		"Usa i puntatori e clicca il tasto trigger quando il laser diventa rosso per interagire con l'ambiente virtuale.",
-		"Usa le piattaforme di teletrasporto per muoverti nella cucina.",
-		"Usa gli schermi per leggere e ascoltare i testi sulla ricetta.",
-		"Usa il tablet in cucina per accedere al menu di pausa e quindi alle opzioni, alla pagina di aiuto e per uscire dal livello.",
-		"Per iniziare a cucinare prendere gli ingredienti dalla dispensa.",
-		"Controlla gli ingredienti da raccogliere e quelli raccolti utilizzando lo schermo in dispensa.",
-		"Una volta raccolti tutti gli ingredienti, si può preparare la ricetta in cucina.",
-		"In cucina sulla sinistra sono presenti tutti gli ingredienti raccolti.",
-		"Nella parte centrale invece sono presenti tutti gli utensili.",
-		"Terminata la ricetta, vai dai giudici per verificare le conoscenze acquisite."
+	"Pages": [
+		"Use the pointers and click the trigger button when the laser turns red to interact with the virtual environment.",
+		"Use the teleportation platforms to move around the kitchen.",
+		"Use the screens to read and listen to the recipe texts.",
+		"Use the tablet in the kitchen to access the pause menu and then the options, the help page and to exit the level.",
+		"To start cooking, take the ingredients from the pantry.",
+		"Check the ingredients to be collected and those collected using the screen in the larder.",
+		"Once you have gathered all the ingredients, you can prepare the recipe in the kitchen.",
+		"In the kitchen on the left are all the ingredients collected.",
+		"The central part contains all the tools.",
+		"When you have finished the recipe, go to the judges to check your knowledge."
 	]
 }
