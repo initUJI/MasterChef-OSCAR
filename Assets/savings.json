@@ -73,8 +73,8 @@
             ]
         },
         {
-            "empty": true,
-            "username": "",
+            "empty": false,
+            "username": "Salvataggio 4",
             "levels": [
                 {
                     "unlocked": true,
