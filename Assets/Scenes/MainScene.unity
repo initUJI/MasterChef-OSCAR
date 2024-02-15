@@ -45370,7 +45370,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
@@ -50766,7 +50766,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
@@ -69540,7 +69540,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
@@ -81893,7 +81893,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
@@ -105741,7 +105741,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7574086594587818576, guid: 17fdd522baeace34a8cf59f969622f03, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 9056953604984039639, guid: 17fdd522baeace34a8cf59f969622f03, type: 3}
       propertyPath: m_InteractionManager
@@ -106015,7 +106015,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
-      value: Glass-ceramic cooker
+      value: Cooker
       objectReference: {fileID: 0}
     - target: {fileID: 6071191275524204097, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_IsActive
