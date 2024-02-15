@@ -45368,6 +45368,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2132176725}
     m_Modifications:
+    - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
       value: PostazioneVuota
@@ -50760,6 +50764,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2132176725}
     m_Modifications:
+    - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
       value: PostazioneVuota
@@ -69530,6 +69538,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2132176725}
     m_Modifications:
+    - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
       value: PostazioneVuota
@@ -81879,6 +81891,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2132176725}
     m_Modifications:
+    - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 6337796889403403366, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_Name
       value: PostazioneVuota
@@ -84340,6 +84356,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 896757054}
     m_Modifications:
+    - target: {fileID: 175186601160536830, guid: 42449d65ac4c1994b8897fb07c8ba69f, type: 3}
+      propertyPath: m_Name
+      value: Turner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4928321518561391151, guid: 42449d65ac4c1994b8897fb07c8ba69f, type: 3}
+      propertyPath: m_Name
+      value: Skimmer
+      objectReference: {fileID: 0}
     - target: {fileID: 5977176829655080169, guid: 42449d65ac4c1994b8897fb07c8ba69f, type: 3}
       propertyPath: m_Name
       value: Kitchen Utensil Tool
@@ -105715,6 +105739,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.02292
       objectReference: {fileID: 0}
+    - target: {fileID: 7574086594587818576, guid: 17fdd522baeace34a8cf59f969622f03, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 9056953604984039639, guid: 17fdd522baeace34a8cf59f969622f03, type: 3}
       propertyPath: m_InteractionManager
       value: 
@@ -105985,6 +106013,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2132176725}
     m_Modifications:
+    - target: {fileID: 3980036080889093642, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
+      propertyPath: m_Name
+      value: Glass-ceramic cooker
+      objectReference: {fileID: 0}
     - target: {fileID: 6071191275524204097, guid: b01453c9499f2f54aa9356998b2e9804, type: 3}
       propertyPath: m_IsActive
       value: 1
